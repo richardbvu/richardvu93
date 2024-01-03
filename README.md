@@ -1,5 +1,6 @@
 ### Hi! My name is Richard Vu 😄
-Hello
+
+I am a Front-end Developer based in Torrance, California.
 
 
 <!--
